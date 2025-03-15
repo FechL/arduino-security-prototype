@@ -40,7 +40,7 @@ Preview video (youtube):
 - The system activates when sufficient light is detected by the LDR
 - The servo rotates between 15° and 115° continuously
 - Distance is measured at each angle position
-- Warnings are triggered when objects are detected within 10cm or loud sounds are detected
+- Warnings are triggered when objects are detected within 10cm (can be adjust) or loud sounds are detected
 - A timeout warning activates after 5 minutes of operation
 - The button resets warnings and timeout
 
