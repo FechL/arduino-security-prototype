@@ -3,7 +3,8 @@
 ## Overview
 This project implements an ultrasonic radar system using Arduino for hardware control and Processing for visualization. The system scans surroundings by rotating a servo motor with an ultrasonic sensor and displays detected objects on a radar interface.
 
-[![Simple Arduino Security Prototype](https://img.youtube.com/shorts/7LaqdOJC4zM?feature=share)](https://youtube.com/shorts/7LaqdOJC4zM?feature=share)
+Preview video (youtube):
+[Simple Arduino Security Prototype](https://youtube.com/shorts/7LaqdOJC4zM?feature=share)
 
 ## Features
 - 180° area scanning using servo motor rotation
